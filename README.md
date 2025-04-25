@@ -6,7 +6,6 @@
 - Request methods (GET, POST, etc.)
 - Headers and payloads
 - Authentication flows (OAuth2, tokens, etc.)
-- DRM license handling (if applicable)
 - Response handling logic
 
 This repository focuses on accurate, real-world data extracted directly from APK files. Third-party services like Firebase are generally excluded unless essential (e.g., Google OAuth2).
